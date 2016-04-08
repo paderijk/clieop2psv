@@ -1,0 +1,1 @@
+verwerkingsdatum|reknr_betaler|reknr_begunstigde|bedrag|begunstigde|woonplaats|omschrijving
